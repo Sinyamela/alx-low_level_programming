@@ -1,1 +1,2 @@
-alx low level programming readme file
+#!/bin/bash
+first readme file 0x02-functions_nested_loops
